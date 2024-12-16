@@ -11,8 +11,8 @@ I’m a Full Stack Developer with over 10 years of experience, and I’m truly p
 
 ## Hackero
 
-My latest passion project is [hackero.io](https://hackero.io), a hacking simulation game with real-time gameplay. It’s got a desktop-style UI, a fully fleshed-out filesystem, missions, and so much more! I launched a classic version a while back, and now I’m working on an rewrite right now that will allow more game depth.
+My current project is hackero.io, a hacking simulation game with real-time gameplay. It features a desktop-style interface, a functional filesystem, and missions to complete. I launched a classic version a while back, but I’m currently rewriting it to expand the game’s depth and features.
 
-The game is powered by a custom-built backend framework that follows Domain-Driven Design principles and supports real-time connections. It’s been a rewarding journey, and I can’t wait to share it with the world.
+The backend is a custom-built framework based on Domain-Driven Design, supporting real-time connections. It’s been a rewarding project to work on, and I’m excited to share the next version.
 
 <h1 align="center">STAY AWESOME 🎉</h1>
