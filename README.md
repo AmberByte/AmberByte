@@ -15,11 +15,11 @@ I’m a Full Stack Developer with over 10 years of experience, and I’m truly p
 ---
 
 ## Projects
-<a href="https://hackero.io/"><h2 valign="middle"><img align="center" height="50" src="https://hackero.io/favicon.svg"> Hackero</h2></a>
+<h2 valign="middle"><a href="https://hackero.io/"><img align="center" height="50" src="https://hackero.io/favicon.svg"> Hackero</a></h2>
   My current project is hackero.io, a hacking simulation game with real-time gameplay. It features a desktop-style interface, a functional filesystem, and missions to complete. I launched a classic version a while back, but I’m currently rewriting it to expand the game’s depth and features.  
   The backend is a custom-built framework based on Domain-Driven Design, supporting real-time connections. It’s been a rewarding project to work on, and I’m excited to share the next version.
 
-<a href="https://flamigo.amberbyte.dev/"><h2 valign="middle"><img align="center" height="50" src="https://flamigo.amberbyte.dev/logo-simple.svg"> Flamigo (new)</h2></a>
+<h2 valign="middle"><a href="https://flamigo.amberbyte.dev/"><img align="center" height="50" src="https://flamigo.amberbyte.dev/logo-simple.svg"> Flamigo (new)</a></h2>
   The domain driven framework running hackero.  
   I've been reusing it again and again and the concepts stuck, therefore I've extracted it from the games code.  
   Its now available open source in an early stage for testing out.  
